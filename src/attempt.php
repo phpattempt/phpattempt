@@ -2,8 +2,9 @@
 
 if (!function_exists('attempt')) {
     /**
-     * @param callable $expression
-     * @return array{ 0: mixed|null, 1: Exception|null }
+     * @template TRet
+     * @param callable(): TRet $expression
+     * @return array{ 0: TRet|null, 1: Exception|null }
      */
     function attempt(callable $expression): array
     {

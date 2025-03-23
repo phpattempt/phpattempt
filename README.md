@@ -36,7 +36,7 @@ echo $data;
 - ⚡ Framework Agnostic : Works with any PHP project
 
 ## Requirements
-- PHP 8.3 or higher
+- PHP 8.2 or higher
 
 ## Basic Examples
 

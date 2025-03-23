@@ -1,0 +1,31 @@
+{
+    "name": "phpattempt/phpattempt",
+    "description": "Helper function to enforce error-first approach in your code",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phpattempt\\Phpattempt\\": "src/"
+        },
+        "files": [
+            "./src/attempt.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "webpnk",
+            "email": "webpnk.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    },
+    "require-dev": {
+        "pestphp/pest": "^3.7"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}

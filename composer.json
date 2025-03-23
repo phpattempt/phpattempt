@@ -3,6 +3,11 @@
     "description": "Helper function to enforce error-first approach in your code",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "php",
+        "exception",
+        "error"
+    ],
     "autoload": {
         "psr-4": {
             "Phpattempt\\Phpattempt\\": "src/"

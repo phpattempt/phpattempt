@@ -2,8 +2,8 @@
 
 A minimalistic PHP package that encourages error-first programming approach, helping you write more reliable and maintainable code.
 
-[![PHP Version](https://img.shields.io/packagist/php-v/phpattempt/phpattempt.svg)](https://packagist.org/packages/phpattempt/phpattempt)
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/phpattempt/phpattempt.svg)](https://packagist.org/packages/phpattempt/phpattempt)
+[![PHP Version](https://img.shields.io/packagist/php-v/phpattempt/phpattempt.svg?v=1)](https://packagist.org/packages/phpattempt/phpattempt)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/phpattempt/phpattempt.svg?v=1)](https://packagist.org/packages/phpattempt/phpattempt)
 
 ## Installation
 
